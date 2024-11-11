@@ -1,5 +1,5 @@
 ## ⚙ 기술 스택
 
 <div>
-<img src="http://github.com/gijuyang/Readme_Template/Java.png" width="80">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </div>
